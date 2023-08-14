@@ -1,4 +1,3 @@
-# Deep-First-Search-With-Multidimensional-arrays-just-for-training-java-and-logic
-
+# Deep-First-Search - with arrays [3] [3] to train JAVA!!!
 
 Ignore the complexity and the ways that I have chosen; this was done as a proposal to train my logic and practice some Java!!!
